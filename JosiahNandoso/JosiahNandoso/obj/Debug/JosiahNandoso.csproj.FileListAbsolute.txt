@@ -30,3 +30,6 @@ C:\Users\Josiah\Documents\GitHubVisualStudio\JosiahNandoso\JosiahNandoso\JosiahN
 C:\Users\Josiah\Documents\GitHubVisualStudio\JosiahNandoso\JosiahNandoso\JosiahNandoso\obj\Debug\JosiahNandoso.csprojResolveAssemblyReference.cache
 C:\Users\Josiah\Documents\GitHubVisualStudio\JosiahNandoso\JosiahNandoso\JosiahNandoso\obj\Debug\JosiahNandoso.dll
 C:\Users\Josiah\Documents\GitHubVisualStudio\JosiahNandoso\JosiahNandoso\JosiahNandoso\obj\Debug\JosiahNandoso.pdb
+C:\Users\Josiah\Documents\GitHubVisualStudio\JosiahNandoso\JosiahNandoso\JosiahNandoso\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Josiah\Documents\GitHubVisualStudio\JosiahNandoso\JosiahNandoso\JosiahNandoso\bin\Swashbuckle.Core.dll
+C:\Users\Josiah\Documents\GitHubVisualStudio\JosiahNandoso\JosiahNandoso\JosiahNandoso\bin\WebActivatorEx.dll
