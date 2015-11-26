@@ -7,6 +7,7 @@ using System.Data.Entity.Migrations;
 
 namespace JosiahNandoso.Models
 {
+    [DbConfigurationType(typeof(MySql.Data.Entity.MySqlEFConfiguration))]
     public class JosiahNandosoContext : DbContext
     {
         // You can add custom code to this file. Changes will not be overwritten.
